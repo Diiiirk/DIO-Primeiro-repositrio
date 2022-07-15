@@ -1,0 +1,12 @@
+Comandos gitbash
+
+git init 					"cria repositório na pasta"
+ls                                                               "Mostra todos itens da pasta"
+cd  <nomediretório>                                              "Entrar em pasta"
+cd ..                                                            "Volta uma pasta"
+mkdir <nomediretório>                                            "Cria pasta"
+git status                                                       "Status do server"
+git add .                                                        "Adiciona tudo"
+git commit -m <"explicação do commit">                           "commita os novos itens"
+git push origin main                                             "empurra para o gihub"
+
